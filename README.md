@@ -11,7 +11,6 @@ Une application web interactive pour l'analyse, le nettoyage et la prédiction d
 - [Utilisation](#utilisation)
 - [Flux de travail](#flux-de-travail)
 - [Technologies utilisées](#technologies-utilisées)
-- [Contribuer](#contribuer)
 
 ## 🎯 Présentation
 
@@ -27,31 +26,8 @@ Cette application permet d'analyser un jeu de données de vins, de nettoyer les 
 - **Comparaison des performances** : Métriques d'évaluation et recommandation du meilleur modèle
 
 ## 🏗️ Structure du projet
-Projet-ML/
-├── app/
-│ ├── dataset/ # Gestion des données
-│ │ ├── forms/ # Formulaires pour la configuration des données
-│ │ ├── models.py # Modèles de données
-│ │ ├── services.py # Services pour le traitement des données
-│ │ └── state.py # Gestion de l'état global des données
-│ ├── layouts/ # Composants d'interface utilisateur
-│ │ └── sidebar_components.py
-│ ├── pages/ # Pages de l'application
-│ │ ├── 0_Home.py # Page d'accueil
-│ │ ├── 1_Dataset.py # Aperçu du dataset
-│ │ ├── 2_Exploration_donnees.py # Exploration des données
-│ │ ├── 3_Nettoyage_donnes.py # Nettoyage des données
-│ │ ├── 4_Entrainement.py # Entraînement des modèles
-│ │ └── 5_Comparaisons.py # Comparaison des modèles
-│ ├── utils/ # Utilitaires
-│ │ ├── model_storage.py # Stockage des modèles entraînés
-│ │ └── plotly.py # Fonctions pour les visualisations Plotly
-│ ├── main.py # Point d'entrée de l'application
-│ ├── main_layout.py # Mise en page principale
-│ └── routes.py # Configuration des routes
-├── data/ # Données
-│ └── vin.csv # Jeu de données des vins
-└── requirements.txt # Dépendances Python
+![image](https://github.com/user-attachments/assets/3a368547-60d5-46cd-8778-c43d2e31c8df)
+
 
 
 ## 🚀 Installation
