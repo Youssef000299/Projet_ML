@@ -1,6 +1,13 @@
 # 🍷 Application d'Analyse des Vins
 
-Une application web interactive pour l'analyse, le nettoyage et la prédiction de la qualité des vins, développée avec Streamlit et scikit-learn.
+Une application web interactive pour l'analyse et la prédiction de la qualité des vins, développée avec Streamlit et scikit-learn.
+
+L'application est déja déployée à l'adresse suivante : https://youssef000299-projet-ml-appmain-z58ggc.streamlit.app/Dataset
+
+L'application est optimisée pour le mode nuit afin de garantir une expérience utilisateur agréable et immersive. Vous pouvez changer le mode en accédant aux paramètres en haut à droite de l'écran et en sélectionnant le mode nuit.
+
+![image](https://github.com/user-attachments/assets/211586b4-65e5-4950-a4b4-0c4766dcfa31)
+
 
 ## 📋 Table des matières
 
@@ -31,21 +38,23 @@ Cette application permet d'analyser un jeu de données de vins, de nettoyer les 
 
 
 ## 🚀 Installation
-
-1. Clonez ce dépôt :
-   git clone https://github.com/Youssef000299/Projet_ML.git
    
+1. Clonez ce dépôt :
+   ```bash:Projet-ML/README.md
+   git clone https://github.com/Youssef000299/Projet_ML.git
    cd Projet-ML
+   ```
 
-2. Créez un environnement virtuel et avtivez le :
-
-   python -m venv .env
-
-   Sur Windows : .env\Scripts\activate
+2. Créez un environnement virtuel et activez-le :
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Sur Windows : venv\Scripts\activate
+   ```
 
 3. Installez les dépendances :
-
+   ```bash
    pip install -r requirements.txt
+   ```
 
 ## 🖥️ Utilisation
 
