@@ -8,6 +8,9 @@ L'application est optimisée pour le mode nuit afin de garantir une expérience 
 
 ![image](https://github.com/user-attachments/assets/211586b4-65e5-4950-a4b4-0c4766dcfa31)
 
+### ⚠️ Remarque
+
+Dans la **page d'entraînement**, certaines visualisations peuvent occasionnellement générer des erreurs sur la version **déployée sur Streamlit Cloud**. Cela est dû à une gestion stricte des **ID d'éléments dupliqués** par Streamlit Cloud. Pour une expérience plus stable, il est recommandé de tester l'application **localement**.
 
 ## 📋 Table des matières
 
