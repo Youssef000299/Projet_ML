@@ -2,7 +2,7 @@
 
 Une application web interactive pour l'analyse et la prédiction de la qualité des vins, développée avec Streamlit et scikit-learn.
 
-L'application est déja déployée à l'adresse suivante : https://youssef000299-projet-ml-appmain-z58ggc.streamlit.app/Dataset
+L'application est déja déployée à l'adresse suivante : https://youssef000299-projet-ml-appmain-z58ggc.streamlit.app
 
 L'application est optimisée pour le mode nuit afin de garantir une expérience utilisateur agréable et immersive. Vous pouvez changer le mode en accédant aux paramètres en haut à droite de l'écran et en sélectionnant le mode nuit.
 
